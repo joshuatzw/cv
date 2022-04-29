@@ -1,0 +1,30 @@
+body {
+  background-color: #F8ECD1;
+  font-family: sans-serif;
+}
+
+hr {
+  height: 0px;
+  border-color: #D3D3D3;
+  border-width: 8px;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+}
+
+h1 {
+  color: #85586F;
+}
+
+h3 {
+  color: #AC7D88;
+}
+
+.contactimg{
+  height: 7%;
+  width: 7%;
+}
+
+.contactimg:hover{
+  background-color: #F7F5F2;
+}
